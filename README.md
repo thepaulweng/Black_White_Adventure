@@ -92,6 +92,7 @@
 ---
 
 ## UML 圖
+<img width="888" height="790" alt="black whiteAdventure_UML" src="https://github.com/user-attachments/assets/4a939a59-b4dc-4e6c-89d7-196a0f44a828" />
 
 ---
 ## 執行成果截圖
