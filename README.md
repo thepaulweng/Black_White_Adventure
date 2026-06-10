@@ -93,4 +93,10 @@
 
 ---
 ## 執行成果截圖
+
+<img width="637" height="708" alt="截圖 2026-06-10 下午11 29 29" src="https://github.com/user-attachments/assets/727cb02b-43a2-4f49-86fe-40e30a4b1cce" />
+<img width="482" height="816" alt="截圖 2026-06-10 下午11 29 37" src="https://github.com/user-attachments/assets/7ca02739-ae8a-4bfb-8de4-d97b4acfb67a" />
+<img width="520" height="830" alt="截圖 2026-06-10 下午11 29 45" src="https://github.com/user-attachments/assets/17a2213d-2e36-46a3-867d-8835a7f21b53" />
+<img width="461" height="861" alt="截圖 2026-06-10 下午11 30 00" src="https://github.com/user-attachments/assets/328b57f4-b237-40ef-a24d-f9e69c43c56b" />
+
 ---
